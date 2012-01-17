@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Init file for EHLOMultiPass
+ * Init file for evMultiPass
  *
  * 	Initializes the custom frontend security module which will
  * 	dynamically load other security models based on the 
@@ -12,6 +12,6 @@
 
 
 //Overwrite the frontend security that existed.
-PHPr::$frontend_security = new EHLOMultiPass_Security();
+PHPr::$frontend_security = new evMultiPass_Security();
 
 

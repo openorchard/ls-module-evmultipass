@@ -1,13 +1,13 @@
 <?php
 /**
- * EHLOMultiPass_Module.php
+ * evMultiPass_Module.php
  *
  *	@author Joe Richardson
  *  @license http://unlicense.org/ Released under the unlicense. 
  */
 
 
-	class EHLOMultiPass_Module extends Core_ModuleBase
+	class evMultiPass_Module extends Core_ModuleBase
 	{
 
 		/**
